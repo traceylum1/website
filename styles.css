@@ -17,6 +17,15 @@
     z-index: 10000;
 }
 
+.nav a {
+    font-size: 20px;
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
 .main {
     margin-top: 100px;
 }
