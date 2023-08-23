@@ -1,0 +1,26 @@
+
+.nav ul li {
+    display: inline-block;
+    margin: 0 0.35em;
+    padding: 0;
+    vertical-align: middle;
+}
+
+.nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 0.5em 1em;
+    background-color: rgba(247, 247, 247, 0.95);
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    z-index: 10000;
+}
+
+.main {
+    margin-top: 100px;
+}
+
+p {
+    font-size: 100px;
+}
